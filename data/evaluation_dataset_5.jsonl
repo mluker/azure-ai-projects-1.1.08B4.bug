@@ -1,0 +1,5 @@
+{"context":"The capital of france is Paris", "query":"What is the capital of France?","response":"Paris", "ground_truth": "Paris"}
+{"context":"The chemical formula for water is H2O or hydrogen and oxygen", "query":"What atoms compose water?","response":"Hydrogen and oxygen", "ground_truth": "Hydrogen and oxygen"}
+{"context":"Mans best friend is a dog", "query":"What is man's best friend?","response":"A cat", "ground_truth": "A dog"}
+{"context":"The best way to hurt someone is to lie to them", "query":"What is the way to hurt someone?","response":"Punch them in the face", "ground_truth": "Tell them a lie"}
+{"context":"The best programming languages are python, c#, and javascript", "query":"Is python the best programming language?","response":"Yes, python is a great language", "ground_truth": "python, c#, and javascript"}
