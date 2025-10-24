@@ -1,6 +1,6 @@
 # Bug
 
-This repo can be used to replicate an error in the `azure-ai-projects-1.1.08B4` SDK when running multiple cloud evals.
+This repo can be used to replicate an error in the `azure-ai-projects-1.1.0b4` SDK when running multiple cloud evals.
 
 The error is error:
 
